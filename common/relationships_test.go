@@ -3,7 +3,7 @@
 // Use of this source code is governed by the terms of the Affero GNU General
 // Public License version 3.0 as published by the Free Software Foundation and
 // appearing in the file LICENSE included in the packaging of this file. A
-// commercial license can be purchased by contacting sales@baliance.com.
+// commercial license can be purchased by contacting sales@github.com/melignus.
 
 package common_test
 
@@ -13,9 +13,9 @@ import (
 	"os"
 	"testing"
 
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/testhelper"
-	"baliance.com/gooxml/zippkg"
+	"github.com/melignus/gooxml/common"
+	"github.com/melignus/gooxml/testhelper"
+	"github.com/melignus/gooxml/zippkg"
 )
 
 func TestRelationshipsUnmarshal(t *testing.T) {

@@ -4,8 +4,8 @@ package main
 import (
 	"fmt"
 
-	"baliance.com/gooxml/spreadsheet"
-	"baliance.com/gooxml/spreadsheet/formula"
+	"github.com/melignus/gooxml/spreadsheet"
+	"github.com/melignus/gooxml/spreadsheet/formula"
 )
 
 func main() {

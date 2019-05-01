@@ -3,7 +3,7 @@
 // Use of this source code is governed by the terms of the Affero GNU General
 // Public License version 3.0 as published by the Free Software Foundation and
 // appearing in the file LICENSE included in the packaging of this file. A
-// commercial license can be purchased by contacting sales@baliance.com.
+// commercial license can be purchased by contacting sales@github.com/melignus.
 
 package presentation
 
@@ -11,13 +11,13 @@ import (
 	"errors"
 	"fmt"
 
-	"baliance.com/gooxml"
+	"github.com/melignus/gooxml"
 
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/dml"
+	"github.com/melignus/gooxml/common"
+	"github.com/melignus/gooxml/measurement"
+	"github.com/melignus/gooxml/schema/soo/dml"
 
-	"baliance.com/gooxml/schema/soo/pml"
+	"github.com/melignus/gooxml/schema/soo/pml"
 )
 
 type Slide struct {

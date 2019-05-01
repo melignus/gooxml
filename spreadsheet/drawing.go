@@ -3,23 +3,23 @@
 // Use of this source code is governed by the terms of the Affero GNU General
 // Public License version 3.0 as published by the Free Software Foundation and
 // appearing in the file LICENSE included in the packaging of this file. A
-// commercial license can be purchased by contacting sales@baliance.com.
+// commercial license can be purchased by contacting sales@github.com/melignus.
 
 package spreadsheet
 
 import (
 	"fmt"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/chart"
-	"baliance.com/gooxml/color"
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/measurement"
+	"github.com/melignus/gooxml"
+	"github.com/melignus/gooxml/chart"
+	"github.com/melignus/gooxml/color"
+	"github.com/melignus/gooxml/common"
+	"github.com/melignus/gooxml/measurement"
 
-	"baliance.com/gooxml/schema/soo/dml"
-	c "baliance.com/gooxml/schema/soo/dml/chart"
-	crt "baliance.com/gooxml/schema/soo/dml/chart"
-	sd "baliance.com/gooxml/schema/soo/dml/spreadsheetDrawing"
+	"github.com/melignus/gooxml/schema/soo/dml"
+	c "github.com/melignus/gooxml/schema/soo/dml/chart"
+	crt "github.com/melignus/gooxml/schema/soo/dml/chart"
+	sd "github.com/melignus/gooxml/schema/soo/dml/spreadsheetDrawing"
 )
 
 // Drawing is a drawing overlay on a sheet.  Only a single drawing is allowed

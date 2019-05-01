@@ -4,11 +4,11 @@ package main
 import (
 	"log"
 
-	"baliance.com/gooxml/measurement"
+	"github.com/melignus/gooxml/measurement"
 
-	"baliance.com/gooxml/common"
+	"github.com/melignus/gooxml/common"
 
-	"baliance.com/gooxml/presentation"
+	"github.com/melignus/gooxml/presentation"
 )
 
 func main() {

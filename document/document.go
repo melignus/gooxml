@@ -3,7 +3,7 @@
 // Use of this source code is governed by the terms of the Affero GNU General
 // Public License version 3.0 as published by the Free Software Foundation and
 // appearing in the file LICENSE included in the packaging of this file. A
-// commercial license can be purchased by contacting sales@baliance.com.
+// commercial license can be purchased by contacting sales@github.com/melignus.
 
 package document
 
@@ -19,14 +19,14 @@ import (
 	"path/filepath"
 	"strings"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/zippkg"
+	"github.com/melignus/gooxml"
+	"github.com/melignus/gooxml/common"
+	"github.com/melignus/gooxml/zippkg"
 
-	"baliance.com/gooxml/schema/soo/dml"
-	st "baliance.com/gooxml/schema/soo/ofc/sharedTypes"
-	"baliance.com/gooxml/schema/soo/pkg/relationships"
-	"baliance.com/gooxml/schema/soo/wml"
+	"github.com/melignus/gooxml/schema/soo/dml"
+	st "github.com/melignus/gooxml/schema/soo/ofc/sharedTypes"
+	"github.com/melignus/gooxml/schema/soo/pkg/relationships"
+	"github.com/melignus/gooxml/schema/soo/wml"
 )
 
 // Document is a text document that can be written out in the OOXML .docx

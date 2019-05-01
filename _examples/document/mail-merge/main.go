@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"baliance.com/gooxml/document"
+	"github.com/melignus/gooxml/document"
 )
 
 func main() {

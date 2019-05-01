@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"log"
 
-	"baliance.com/gooxml/color"
-	"baliance.com/gooxml/document"
-	"baliance.com/gooxml/measurement"
+	"github.com/melignus/gooxml/color"
+	"github.com/melignus/gooxml/document"
+	"github.com/melignus/gooxml/measurement"
 
-	"baliance.com/gooxml/schema/soo/wml"
+	"github.com/melignus/gooxml/schema/soo/wml"
 )
 
 func main() {

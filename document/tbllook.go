@@ -3,13 +3,13 @@
 // Use of this source code is governed by the terms of the Affero GNU General
 // Public License version 3.0 as published by the Free Software Foundation and
 // appearing in the file LICENSE included in the packaging of this file. A
-// commercial license can be purchased by contacting sales@baliance.com.
+// commercial license can be purchased by contacting sales@github.com/melignus.
 
 package document
 
 import (
-	st "baliance.com/gooxml/schema/soo/ofc/sharedTypes"
-	"baliance.com/gooxml/schema/soo/wml"
+	st "github.com/melignus/gooxml/schema/soo/ofc/sharedTypes"
+	"github.com/melignus/gooxml/schema/soo/wml"
 )
 
 // TableLook is the conditional formatting associated with a table style that

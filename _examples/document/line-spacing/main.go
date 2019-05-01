@@ -4,9 +4,9 @@ package main
 import (
 	"log"
 
-	"baliance.com/gooxml/document"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/wml"
+	"github.com/melignus/gooxml/document"
+	"github.com/melignus/gooxml/measurement"
+	"github.com/melignus/gooxml/schema/soo/wml"
 )
 
 func main() {

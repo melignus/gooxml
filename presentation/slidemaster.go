@@ -3,7 +3,7 @@
 // Use of this source code is governed by the terms of the Affero GNU General
 // Public License version 3.0 as published by the Free Software Foundation and
 // appearing in the file LICENSE included in the packaging of this file. A
-// commercial license can be purchased by contacting sales@baliance.com.
+// commercial license can be purchased by contacting sales@github.com/melignus.
 
 package presentation
 
@@ -11,8 +11,8 @@ import (
 	"strconv"
 	"strings"
 
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/schema/soo/pml"
+	"github.com/melignus/gooxml/common"
+	"github.com/melignus/gooxml/schema/soo/pml"
 )
 
 // SlideMaster is the slide master for a presentation.

@@ -3,14 +3,14 @@
 // Use of this source code is governed by the terms of the Affero GNU General
 // Public License version 3.0 as published by the Free Software Foundation and
 // appearing in the file LICENSE included in the packaging of this file. A
-// commercial license can be purchased by contacting sales@baliance.com.
+// commercial license can be purchased by contacting sales@github.com/melignus.
 
 package spreadsheet
 
 import (
 	"strconv"
 
-	"baliance.com/gooxml/spreadsheet/reference"
+	"github.com/melignus/gooxml/spreadsheet/reference"
 )
 
 // SortOrder is a column sort order.

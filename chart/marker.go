@@ -3,15 +3,15 @@
 // Use of this source code is governed by the terms of the Affero GNU General
 // Public License version 3.0 as published by the Free Software Foundation and
 // appearing in the file LICENSE included in the packaging of this file. A
-// commercial license can be purchased by contacting sales@baliance.com.
+// commercial license can be purchased by contacting sales@github.com/melignus.
 
 package chart
 
 import (
-	"baliance.com/gooxml/drawing"
+	"github.com/melignus/gooxml/drawing"
 
-	"baliance.com/gooxml/schema/soo/dml"
-	crt "baliance.com/gooxml/schema/soo/dml/chart"
+	"github.com/melignus/gooxml/schema/soo/dml"
+	crt "github.com/melignus/gooxml/schema/soo/dml/chart"
 )
 
 type Marker struct {

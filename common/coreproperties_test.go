@@ -8,10 +8,10 @@ import (
 	"testing"
 	"time"
 
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/document"
-	"baliance.com/gooxml/testhelper"
-	"baliance.com/gooxml/zippkg"
+	"github.com/melignus/gooxml/common"
+	"github.com/melignus/gooxml/document"
+	"github.com/melignus/gooxml/testhelper"
+	"github.com/melignus/gooxml/zippkg"
 )
 
 func TestMarshalCoreProperties(t *testing.T) {

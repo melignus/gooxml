@@ -3,18 +3,18 @@
 // Use of this source code is governed by the terms of the Affero GNU General
 // Public License version 3.0 as published by the Free Software Foundation and
 // appearing in the file LICENSE included in the packaging of this file. A
-// commercial license can be purchased by contacting sales@baliance.com.
+// commercial license can be purchased by contacting sales@github.com/melignus.
 
 package vmldrawing
 
 import (
 	"fmt"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/urn/schemas_microsoft_com/office/excel"
+	"github.com/melignus/gooxml"
+	"github.com/melignus/gooxml/schema/urn/schemas_microsoft_com/office/excel"
 
-	st "baliance.com/gooxml/schema/soo/ofc/sharedTypes"
-	vml "baliance.com/gooxml/schema/urn/schemas_microsoft_com/vml"
+	st "github.com/melignus/gooxml/schema/soo/ofc/sharedTypes"
+	vml "github.com/melignus/gooxml/schema/urn/schemas_microsoft_com/vml"
 )
 
 // NewCommentDrawing constructs a new comment drawing.
